@@ -1,4 +1,2 @@
 # DSC180A-Methodology-4
-
-Brandon Dioneda
-bdioneda@ucsd.edu
+Brandon Dioneda and Mert Ozer
